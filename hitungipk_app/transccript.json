@@ -1,0 +1,14 @@
+{
+    "mahasiswa": {
+      "nama": "John Doe",
+      "nim": "123456789",
+      "jurusan": "Informatika",
+      "mata_kuliah": [
+        {"kode": "MAT101", "nama": "Matematika Dasar", "sks": 3, "nilai": "A"},
+        {"kode": "FIS101", "nama": "Fisika Dasar", "sks": 3, "nilai": "B+"},
+        {"kode": "INF101", "nama": "Pemrograman Dasar", "sks": 4, "nilai": "A-"},
+        {"kode": "INF201", "nama": "Struktur Data", "sks": 4, "nilai": "B"}
+      ]
+    }
+  }
+  
